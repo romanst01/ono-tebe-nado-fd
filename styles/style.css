@@ -1,1 +1,20 @@
 /* место для вашего кода */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+
+}
+.header__menu-item_active .header__menu-link {
+    text-decoration: none;
+}
+.cover {
+    background-image: url(C:\ROMAN\dev\new-repo\images\cover.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.img1 {
+    display: ;
+    size: 50%;
+}
