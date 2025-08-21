@@ -9,12 +9,12 @@ header {
     text-decoration: none;
 }
 .cover {
-    background-image: url(C:\ROMAN\dev\new-repo\images\cover.jpg);
-    background-size: cover;
+    background-image: url("../images/cover.jpg");
     background-position: center;
-    background-repeat: no-repeat;
+.cover-button {
+    position:;
+}
 }
 .img1 {
-    display: ;
     size: 50%;
 }
